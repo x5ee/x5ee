@@ -3,7 +3,7 @@
 📚 14 years old 
 
 ##
-💻C/C++, C#, Java, JavaScript, HTML/CSS, Pytho
+💻 C/C++, C#, Java, JavaScript, HTML/CSS, Python
 ##
 
 <div style="display: inline_block"><br>
