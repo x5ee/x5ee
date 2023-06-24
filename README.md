@@ -3,7 +3,7 @@
 📚 14 years old 
 
 ##
-💻 C/C++, C#, Java, JavaScript, HTML/CSS, Python, & Reverse Engineering
+💻 C/C#/C++ Java, JavaScript, HTML/CSS, Python, & Reverse Engineering
 ##
 
 <div style="display: inline_block"><br>
