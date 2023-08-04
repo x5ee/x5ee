@@ -1,4 +1,4 @@
-## w3althy
+## about me
 
 📚 15 years old 
 
