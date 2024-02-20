@@ -23,6 +23,6 @@
 <div> 
 📩 contact me on my social media(s) below
 
-[instagram](https://www.instagram.com/chris2wealthy/)
+[instagram](https://www.instagram.com/cj2up/)
   
 </div>
